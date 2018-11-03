@@ -1,0 +1,19 @@
+﻿  Torus.cpp
+  ChildView.cpp
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(190): error C2374: 'M': redefinition; multiple initialization
+  c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(135): note: see declaration of 'M'
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(192): error C2374: 'VM': redefinition; multiple initialization
+  c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(137): note: see declaration of 'VM'
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(192): error C2088: '*': illegal for struct
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(193): error C2374: 'PVM': redefinition; multiple initialization
+  c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(138): note: see declaration of 'PVM'
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(193): error C2088: '*': illegal for struct
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(195): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+c:\users\jsarm\source\repos\cse472step4\cse472step4\childview.cpp(196): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+  Generating Code...
+  Compiling...
+  CSE472Step4.cpp
+  Generating Code...
+  Compiling...
+  MainFrm.cpp
+  Generating Code...
